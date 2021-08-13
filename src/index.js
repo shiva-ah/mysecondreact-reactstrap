@@ -32,7 +32,7 @@ const Example = () => {
 		
   <div>
     <Button color="primary" id="toggler" style={{ marginBottom: '1rem' }}>
-      Toggle
+      Toggle hi
     </Button>
     <UncontrolledCollapse toggler="#toggler">
       <Card>
