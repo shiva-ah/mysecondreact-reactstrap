@@ -32,7 +32,7 @@ const Example = () => {
 		
   <div>
     <Button color="primary" id="toggler" style={{ marginBottom: '1rem' }}>
-      Toggle
+      Toggle Helloooo
     </Button>
     <UncontrolledCollapse toggler="#toggler">
       <Card>
@@ -40,7 +40,7 @@ const Example = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt magni, voluptas debitis
           similique porro a molestias consequuntur earum odio officiis natus, amet hic, iste sed
           dignissimos esse fuga! Minus, alias.
-		  <img src={"../public/logo192.png"}/>
+		  <img src={"/static/logo192.png"}/>
         </CardBody>
       </Card>
     </UncontrolledCollapse>
