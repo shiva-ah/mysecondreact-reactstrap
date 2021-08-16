@@ -40,7 +40,7 @@ const Example = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt magni, voluptas debitis
           similique porro a molestias consequuntur earum odio officiis natus, amet hic, iste sed
           dignissimos esse fuga! Minus, alias.
-		  <img src={"./logo192.png"}/>
+		  <img src={require("./logo192.png")}/>
         </CardBody>
       </Card>
     </UncontrolledCollapse>
